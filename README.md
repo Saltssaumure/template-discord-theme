@@ -1,4 +1,5 @@
-[screenshot]: https://i.imgur.com
+[light]: https://user-images.githubusercontent.com/29710355/231909647-72871e7f-8763-4174-9c71-5f1bb7d401bc.png
+[dark]: https://user-images.githubusercontent.com/29710355/231909520-b24c4301-2d90-4c6c-9e5d-ca9ce20e3ba6.png
 
 # Template Discord Theme
 [![GitHub downloads](https://img.shields.io/github/downloads/saltssaumure/template-discord-theme/total?color=purple&label=GitHub%20downloads&style=flat-square)](https://github.com/Saltssaumure/template-discord-theme/releases/latest "Latest release")
@@ -6,7 +7,9 @@
 
 ***A something something Discord theme.***
 
-![Screenshot of Template Discord theme applied to Discord desktop client]([screenshot])
+| Light mode                                                  | Dark mode                                                 |
+| ----------------------------------------------------------- | --------------------------------------------------------- |
+| ![Screenshot of Temp light mode applied to Discord][light] | ![Screenshot of Temp dark mode applied to Discord][dark] |
 
 ## Installation
 
@@ -38,7 +41,7 @@
 
 ## License
 [GNU General Public License v3.0](https://github.com/Saltssaumure/template-discord-theme/blob/main/LICENSE)
-<span title="Too long; didn't read; not a lawyer">TL;DR;NAL</span>: Do whatever you want with this theme, as long as you allow others to do the same with your version.
+- <span title="Too long; didn't read; not a lawyer">TL;DR;NAL</span>: Do whatever you want with this theme, as long as you allow others to do the same with your version.
 
 ## Questions or suggestions?
 - Post [an issue](https://github.com/Saltssaumure/template-discord-theme/issues) on GitHub.

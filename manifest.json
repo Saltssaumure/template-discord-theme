@@ -1,5 +1,5 @@
 {
-    "id": "net.saltssaumure.dev.Template",
+    "id": "net.saltssaumure.Template",
     "name": "Template",
     "description": "A something something Discord theme.",
     "author": {
@@ -14,5 +14,5 @@
     },
     "license": "GPL-3.0",
     "type": "replugged-theme",
-    "main": "Template.theme.css"
+    "main": "scss/temp.scss"
 }
