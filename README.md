@@ -29,6 +29,11 @@
     - [GitHub](https://github.com/Saltssaumure/template-discord-theme/releases/latest)
     - [Replugged.dev](https://replugged.dev/install?identifier=Saltssaumure/template-discord-theme&source=github)
 
+### Vencord
+1. Install [Vencord](https://github.com/Vendicated/Vencord).
+2. Paste the following in Themes:
+    - `https://saltssaumure.github.io/template-discord-theme/Template.theme.css`
+
 ## Customisation (BD only)
 1. Open `Settings` > `Themes` menu in Discord.
 2. Click pencil icon on this theme.
