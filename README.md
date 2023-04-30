@@ -18,7 +18,7 @@
 2. Download the theme file:
     - [GitHub](https://github.com/Saltssaumure/template-discord-theme/releases/latest)
     - [BD Store](https://betterdiscord.app/theme/?id=000)
-3. Place theme file in BetterDiscord's theme folder:
+3. Place theme file in the `themes` folder:
     - Windows: `%AppData%/BetterDiscord/themes`
     - Mac: `~/Library/Application Support/betterdiscord/themes`
     - Linux: `~/.config/BetterDiscord/themes`
@@ -34,15 +34,30 @@
 2. Paste the following in Themes:
     - `https://saltssaumure.github.io/template-discord-theme/Template.theme.css`
 
-## Customisation (BD only)
-1. Open `Settings` > `Themes` menu in Discord.
-2. Click pencil icon on this theme.
-3. Customise the variable values. See table below for reference.
-4. Save changes and enjoy.
+## Customisation
 
 | Description       | Variable name     | Valid values               | Default value |
 |-------------------|-------------------|----------------------------|---------------|
 | Background colour | `--temp-bg-color` | Any CSS-recognised colour. | #000          |
+
+### BetterDiscord
+1. Open `Settings` > `BetterDiscord` > `Themes`.
+2. Click the pencil icon on this theme.
+3. Edit the variable values and save changes.
+
+### Replugged
+1. Open `Settings` > `Replugged` > `Quick CSS`.
+3. Copy and paste line 30-36 of [`Template.theme.css`](https://github.com/Saltssaumure/template-discord-theme/blob/main/Template.theme.css).
+3. Edit the variable values and apply changes.
+
+### Vencord
+#### Standard method
+1. Follow the instructions in `Settings` > `Vencord` > `Themes`.
+#### Recommended method
+1. Open `Settings` > `Vencord` > `Vencord`.
+2. Toggle on `Enable Custom CSS` and click `Open QuickCSS File`.
+3. Copy and paste line 30-36 of [`Template.theme.css`](https://github.com/Saltssaumure/template-discord-theme/blob/main/Template.theme.css).
+4. Edit the variable values.
 
 ## License
 [GNU General Public License v3.0](https://github.com/Saltssaumure/template-discord-theme/blob/main/LICENSE)
