@@ -18,14 +18,11 @@
 /\____) || )   ( || (____/\| |   /\____) |/\____) || )   ( || (___) || )   ( || (___) || ) \ \__| (____/\
 \_______)|/     \|(_______/)_(   \_______)\_______)|/     \|(_______)|/     \|(_______)|/   \__/(_______/
                                          Licensed under GPL-3.0
-
-Discord: Saltssaumure#7557
-GitHub: https://github.com/Saltssaumure/template-discord-theme
-Join Salt's Discord Themes server: https://discord.gg/uy8nKQVatp
 */
 
 @import url("https://saltssaumure.github.io/template-discord-theme/temp.min.css");
 
+/* See https://github.com/Saltssaumure/template-discord-theme/blob/main/README.md#customisation for customisation settings. */
 :root {
     /* Variables */
 }
