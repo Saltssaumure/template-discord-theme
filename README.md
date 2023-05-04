@@ -1,6 +1,8 @@
 [light]: https://user-images.githubusercontent.com/29710355/231909647-72871e7f-8763-4174-9c71-5f1bb7d401bc.png
 [dark]: https://user-images.githubusercontent.com/29710355/231909520-b24c4301-2d90-4c6c-9e5d-ca9ce20e3ba6.png
 
+[css-color]: https://developer.mozilla.org/en-US/docs/Web/CSS/color_value
+
 # Template Discord Theme
 [![GitHub downloads](https://img.shields.io/github/downloads/saltssaumure/template-discord-theme/total?color=purple&label=GitHub%20downloads&style=flat-square)](https://github.com/Saltssaumure/template-discord-theme/releases/latest "Latest release")
 ![Total size](https://img.shields.io/github/repo-size/saltssaumure/template-discord-theme?style=flat-square "Total size")
@@ -31,14 +33,14 @@
 
 ### Vencord
 1. Install [Vencord](https://github.com/Vendicated/Vencord).
-2. Paste the following in Themes:
+2. Paste the following in `Settings` > `Vencord` > `Themes`:
     - `https://saltssaumure.github.io/template-discord-theme/Template.theme.css`
 
 ## Customisation
 
 | Description       | Variable name     | Valid values               | Default value |
 |-------------------|-------------------|----------------------------|---------------|
-| Background colour | `--temp-bg-color` | Any CSS-recognised colour. | #000          |
+| Background colour | `--temp-bg-color` | Any [colour][css-color]. | #000          |
 
 ### BetterDiscord
 1. Open `Settings` > `BetterDiscord` > `Themes`.
