@@ -9,9 +9,13 @@
     },
     "version": "1.0.0",
     "updater": {
-        "type": "github",
-        "id": "Saltssaumure/template-discord-theme"
+        "type": "store",
+        "id": "net.saltssaumure.Template"
     },
+    // "updater": {
+    //     "type": "github",
+    //     "id": "Saltssaumure/template-discord-theme"
+    // },
     "license": "GPL-3.0",
     "type": "replugged-theme",
     "main": "scss/temp.scss"
