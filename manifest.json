@@ -1,26 +1,19 @@
 {
     "id": "net.saltssaumure.Template",
     "name": "Template",
-    "description": "A something something Discord theme.",
+    "description": "A template theme for multiple client mod support.",
     "author": {
         "name": "Saltssaumure",
         "discordID": "134142022092062720",
         "github": "Saltssaumure"
     },
-    "version": "1.0.0",
+    "version": "1.0.1",
     "updater": {
         "type": "store",
         "id": "net.saltssaumure.Template"
     },
-    // "updater": {
-    //     "type": "github",
-    //     "id": "Saltssaumure/template-discord-theme"
-    // },
     "license": "GPL-3.0",
     "type": "replugged-theme",
     "main": "scss/temp.scss",
-    "image": [
-        "",
-        ""
-    ]
+    "source": "https://github.com/Saltssaumure/template-discord-theme"
 }
