@@ -48,7 +48,6 @@
 #### Automatic
 1. Click to install:
     - [Replugged store][release-rp]
-
 #### Manual
 1. Download `net.saltssaumure.Template.asar`:
     - [GitHub][release-rp-gh]
@@ -64,7 +63,6 @@
 2. Place the file in the themes folder:
     - `Settings` > `BetterDiscord` > `Themes` > `Local Themes` > `Open Themes Folder`
 3. Click `Load missing Themes` and toggle on the theme card.
-
 #### Online
 1. Paste the link in `Settings` > `Vencord` > `Themes` > `Online Themes`:
     - `https://saltssaumure.github.io/template-discord-theme/Template.theme.css`
@@ -83,7 +81,7 @@
 ### Replugged
 1. Enable `Automatically Apply Quick CSS` in `Settings` > `Replugged` > `General`.
 1. Open `Settings` > `Replugged` > `Quick CSS`.
-3. Copy and paste line 30-36 of [`Template.theme.css`][.theme.css].
+3. Copy and paste line 15-20 of [`Template.theme.css`][.theme.css].
 3. Edit the variable values and save.
 
 ### Vencord
