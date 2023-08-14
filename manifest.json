@@ -7,7 +7,7 @@
         "discordID": "134142022092062720",
         "github": "Saltssaumure"
     },
-    "version": "1.0.1",
+    "version": "1.0.2",
     "updater": {
         "type": "store",
         "id": "net.saltssaumure.Template"
@@ -15,5 +15,6 @@
     "license": "GPL-3.0",
     "type": "replugged-theme",
     "main": "scss/temp.scss",
-    "source": "https://github.com/Saltssaumure/template-discord-theme"
+    "source": "https://github.com/Saltssaumure/template-discord-theme",
+    "image": ["https://cdn.discordapp.com/attachments/946226984005025835/1140494116451532810/template1.png"]
 }

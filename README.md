@@ -1,5 +1,4 @@
-[light]:            https://user-images.githubusercontent.com/29710355/231909647-72871e7f-8763-4174-9c71-5f1bb7d401bc.png
-[dark]:             https://user-images.githubusercontent.com/29710355/231909520-b24c4301-2d90-4c6c-9e5d-ca9ce20e3ba6.png
+[screenshot]:       https://cdn.discordapp.com/attachments/946226984005025835/1140494116451532810/template1.png
 
 [css-color]:        https://developer.mozilla.org/en-US/docs/Web/CSS/color_value
 [discord]:          https://discord.gg/uy8nKQVatp
@@ -33,9 +32,7 @@
 
 ***A template Discord theme for multiple client mod support.***
 
-| Light mode                                                 | Dark mode                                                |
-| ---------------------------------------------------------- | -------------------------------------------------------- |
-| ![Screenshot of Temp light mode applied to Discord][light] | ![Screenshot of Temp dark mode applied to Discord][dark] |
+![Screenshot of Template applied to Discord][screenshot]
 
 ## Installation
 
@@ -96,7 +93,7 @@
 4. Edit the variable values and save.
 #### Online
 1. `Enable Custom CSS` in `Settings` > `Vencord` > `Vencord` and click `Open QuickCSS File`.
-2. Copy and paste lines 15-20 of [`Tritone.theme.css`][.theme.css].
+2. Copy and paste lines 15-20 of [`Template.theme.css`][.theme.css].
 3. Edit the variable values.
 
 ## License
