@@ -15,14 +15,14 @@
 [shield-repo-size]: https://img.shields.io/github/repo-size/Saltssaumure/template-discord-theme?label=Repository&style=flat-square "Total size"
 
 [github]:           https://github.com/Saltssaumure/template-discord-theme
-[license]:          https://github.com/Saltssaumure/template-discord-theme/blob/main/LICENSE
 [issues]:           https://github.com/Saltssaumure/template-discord-theme/issues
+[license]:          https://github.com/Saltssaumure/template-discord-theme/blob/main/LICENSE
 [.theme.css]:       https://github.com/Saltssaumure/template-discord-theme/blob/main/Template.theme.css
 
 [release-bd]:       https://betterdiscord.app/theme/?id=000 "BetterDiscord store page"
-[release-bd-gh]:    https://github.com/Saltssaumure/Squared/releases/latest/download/Template.theme.css "Latest release"
 [release-rp]:       https://replugged.dev/store/net.saltssaumure.Template "Replugged store page"
-[release-rp-gh]:    https://github.com/Saltssaumure/Squared/releases/latest/download/net.saltssaumure.Template.asar "Latest release"
+[release-bd-gh]:    https://github.com/Saltssaumure/template-discord-theme/releases/latest/download/Template.theme.css "Get latest release"
+[release-rp-gh]:    https://github.com/Saltssaumure/template-discord-theme/releases/latest/download/net.saltssaumure.Template.asar "Get latest release"
 
 # Template Discord Theme
 [![Buy me a coffee on ko-fi][shield-donate]][ko-fi]
@@ -81,7 +81,7 @@
 ### Replugged
 1. Enable `Automatically Apply Quick CSS` in `Settings` > `Replugged` > `General`.
 1. Open `Settings` > `Replugged` > `Quick CSS`.
-3. Copy and paste line 15-20 of [`Template.theme.css`][.theme.css].
+3. Copy and paste lines 15-20 of [`Template.theme.css`][.theme.css].
 3. Edit the variable values and save.
 
 ### Vencord
