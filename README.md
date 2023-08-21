@@ -61,7 +61,7 @@
     - [BetterDiscord store][release-bd]
     - [GitHub][release-bd-gh]
 2. Place the file in the themes folder:
-    - `Settings` > `BetterDiscord` > `Themes` > `Local Themes` > `Open Themes Folder`
+    - `Settings` > `Vencord` > `Themes` > `Local Themes` > `Open Themes Folder`
 3. Click `Load missing Themes` and toggle on the theme card.
 #### Online
 1. Paste the link in `Settings` > `Vencord` > `Themes` > `Online Themes`:
@@ -69,9 +69,14 @@
 
 ## Customisation
 
-| Description       | Variable name     | Valid values             | Default value |
-| ----------------- | ----------------- | ------------------------ | ------------- |
-| Background colour | `--temp-bg-color` | Any [colour][css-color]. | #000          |
+| Description                    | Variable name     | Valid values                    | Default value |
+| ------------------------------ | ----------------- | ------------------------------- | ------------- |
+| Background colour              | `--temp-bg-color` | Any [colour][css-color].        | #000          |
+| &#9936; Moving scanline on/off | `--temp-scanline` | `block` (on) or `none` (off).   | `block`       |
+| &#9888; Screen flicker on/off  | `--temp-flicker`  | `flicker` (on) or `none` (off). | `none`        |
+
+- &#9936; This effect is performance-intensive.
+- &#9888; This is a fast flickering effect and may not be suitable for those with photosensitive epilepsy.
 
 ### BetterDiscord
 1. Open `Settings` > `BetterDiscord` > `Themes`.
@@ -86,7 +91,7 @@
 
 ### Vencord
 #### Local
-2. `Open Themes Folder` in `Settings` > `BetterDiscord` > `Themes` > `Local Themes`
+2. `Open Themes Folder` in `Settings` > `Vencord` > `Themes` > `Local Themes`
 3. Open `Template.theme.css` with your favourite text editor.
 4. Edit the variable values and save.
 #### Online
