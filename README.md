@@ -1,4 +1,6 @@
 [screenshot]:       https://cdn.discordapp.com/attachments/946226984005025835/1140494116451532810/template1.png
+[light]:            https://cdn.discordapp.com/attachments/946226984005025835/1140494116451532810/template1.png
+[dark]:             https://cdn.discordapp.com/attachments/946226984005025835/1140494116451532810/template1.png
 
 [css-color]:        https://developer.mozilla.org/en-US/docs/Web/CSS/color_value
 [discord]:          https://discord.gg/uy8nKQVatp
@@ -33,6 +35,10 @@
 ***A template Discord theme for multiple client mod support.***
 
 ![Screenshot of Template applied to Discord][screenshot]
+
+| Light mode                                                     | Dark mode                                                    |
+| -------------------------------------------------------------- | ------------------------------------------------------------ |
+| ![Screenshot of Template light mode applied to Discord][light] | ![Screenshot of Template dark mode applied to Discord][dark] |
 
 ## Installation
 
