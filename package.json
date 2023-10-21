@@ -6,6 +6,7 @@
   "author": "Saltssaumure <themes@saltssaumure.net>",
   "license": "GPL-3.0",
   "private": true,
+  "type": "module",
   "scripts": {
     "dev": "bd-scss dev",
     "dev:rp": "replugged build theme --watch",
@@ -16,8 +17,7 @@
     "lint:fix": "prettier ./scss --write --log-level warn",
     "release": "replugged release"
   },
-  "type": "module",
-  "dependencies": {
+  "devDependencies": {
     "prettier": "^3.0.3",
     "replugged": "^4.7.4",
     "salt-bd-scss": "^1.1.0"
