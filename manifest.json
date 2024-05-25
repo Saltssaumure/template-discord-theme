@@ -12,7 +12,7 @@
     "type": "store",
     "id": "net.saltssaumure.Template"
   },
-  "license": "GPL-3.0",
+  "license": "AGPL-3.0-or-later",
   "type": "replugged-theme",
   "main": "scss/temp.scss",
   "source": "https://github.com/Saltssaumure/template-discord-theme",
