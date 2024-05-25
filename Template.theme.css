@@ -15,6 +15,7 @@
 /* See https://github.com/Saltssaumure/template-discord-theme#customisation for customisation settings. */
 :root {
     --temp-bg-color: #000;
+    --temp-bg-height: 100vh;
     --temp-scanline: block;
     --temp-flicker: none;
 }

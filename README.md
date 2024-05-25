@@ -1,8 +1,10 @@
-[screenshot]:       https://cdn.discordapp.com/attachments/946226984005025835/1140494116451532810/template1.png
-[light]:            https://cdn.discordapp.com/attachments/946226984005025835/1140494116451532810/template1.png
-[dark]:             https://cdn.discordapp.com/attachments/946226984005025835/1140494116451532810/template1.png
+[screenshot]:       https://saltssaumure.github.io/template-discord-theme/preview/preview.avif
+[light]:            https://saltssaumure.github.io/template-discord-theme/preview/light.avif
+[dark]:             https://saltssaumure.github.io/template-discord-theme/preview/dark.avif
 
 [css-color]:        https://developer.mozilla.org/en-US/docs/Web/CSS/color_value
+[css-length]:       https://developer.mozilla.org/en-US/docs/Web/CSS/length
+
 [discord]:          https://discord.gg/uy8nKQVatp
 
 [BetterDiscord]:    https://betterdiscord.app/
@@ -28,8 +30,8 @@
 
 # Template Discord Theme
 [![Buy me a coffee on ko-fi][shield-donate]][ko-fi]
-[![BetterDiscord GitHub downloads][shield-bd-dl]][release-bd-gh]
-[![Replugged GitHub downloads][shield-asar-dl]][release-rp-gh]
+[![CSS GitHub downloads][shield-bd-dl]][release-bd-gh]
+[![Asar GitHub downloads][shield-asar-dl]][release-rp-gh]
 [![Total repository size][shield-repo-size]][github]
 
 ***A template Discord theme for multiple client mod support.***
@@ -75,11 +77,12 @@
 
 ## Customisation
 
-| Description                    | Variable name     | Valid values                    | Default value |
-| ------------------------------ | ----------------- | ------------------------------- | ------------- |
-| Background colour              | `--temp-bg-color` | Any [colour][css-color].        | #000          |
-| &#9936; Moving scanline on/off | `--temp-scanline` | `block` (on) or `none` (off).   | `block`       |
-| &#9888; Screen flicker on/off  | `--temp-flicker`  | `flicker` (on) or `none` (off). | `none`        |
+ | Variable           | Description                    | Valid values                    | Default value |
+ | ------------------ | ------------------------------ | ------------------------------- | ------------- |
+ | `--temp-bg-color`  | Background colour              | Any [colour][css-color].        | `#000`        |
+ | `--temp-bg-height` | Background height              | Any [length][css-length].       | `100vh`       |
+ | `--temp-scanline`  | &#9936; Moving scanline on/off | `block` (on) or `none` (off).   | `block`       |
+ | `--temp-flicker`   | &#9888; Screen flicker on/off  | `flicker` (on) or `none` (off). | `none`        |
 
 - &#9936; This effect is performance-intensive.
 - &#9888; This is a fast flickering effect and may not be suitable for those with photosensitive epilepsy.
